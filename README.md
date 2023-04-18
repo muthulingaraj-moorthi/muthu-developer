@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muthu-developer
+- 👋 Hi, I’m @muthu
 - 👀 I’m interested in ... Coding
 - 🌱 I’m currently learning ... Frontend development
 - 💞️ I’m looking to collaborate on ...
